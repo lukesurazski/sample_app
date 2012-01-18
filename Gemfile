@@ -13,6 +13,7 @@ end
 group :test do
   gem 'rspec-rails'
   gem 'webrat'
+  gem 'spork'
 end
 
 group :production do
